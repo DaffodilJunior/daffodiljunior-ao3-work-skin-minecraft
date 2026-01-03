@@ -7,13 +7,14 @@ The Minecraft sections and Google Search Bars are screen reader compatible. Unfo
 
 ## Ultraviollett (AO3):
 ### "Mimicking Minecraft for fics- Some Minecraft Work Skins"
-### (Minecraft Book + Button + End Poem)
+(Minecraft Book + Button + End Poem)
 https://archiveofourown.org/works/39524436
 
 ### "Web Search Workskin"
-### (Google Search Bar)
+(Google Search Bar)
 https://archiveofourown.org/works/65285251
 
 ## TrojanTeapot (AO3):
-### "2023 Discord Theme Workskin" (Discord Chats)
+### "2023 Discord Theme Workskin" 
+(Discord Chats)
 https://archiveofourown.org/works/46815217
