@@ -1,4 +1,4 @@
-# READ
+# README
 Ultraviollett (AO3) and TrojanTeapot (AO3) did all the work, i just copypasted it over together.
 
 ## Ultraviollett's "Mimicking Minecraft for fics- Some Minecraft Work Skins":
