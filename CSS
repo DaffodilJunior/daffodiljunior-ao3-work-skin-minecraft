@@ -1,4 +1,4 @@
-/* Minecraft Button */
+/* Ultraviollett's Screenreader for Minecraft Workskins */
 
 #workskin .screenreader {
   position: absolute;
@@ -10,6 +10,8 @@
   white-space: nowrap;
   border: 0;
 }
+
+/* Minecraft Button by Ultraviollett */
 
 #workskin .mcbuttondiv {
   display: flex;
@@ -47,7 +49,7 @@
   margin: auto;
 }
 
-/* Minecraft Book */
+/* Minecraft Book by Ultraviollett */
 
 #workskin .mcbook {
   display: block;
@@ -78,7 +80,7 @@
   display: none;
 }
 
-/* Minecraft End Poem */
+/* Minecraft End Poem by Ultraviollett */
 
 #workskin .mcpoemdiv {
   display: block;
@@ -138,7 +140,7 @@
   color: rgb(255, 151, 198);
 }
 
-/* Google Search Bar */
+/* Google Search Bar by Ultraviollett */
 
 #workskin .for-no-ws {
   display: none;
