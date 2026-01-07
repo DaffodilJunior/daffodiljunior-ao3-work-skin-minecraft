@@ -19,7 +19,7 @@
     <img class="icon" src="https://i.imgur.com/4TFWQVB.png" />
   </p>
 
-<p class="discord_user"> <span class="name roledefault">DiscordUser</span> <span class="dtimestamp">Today at 7:15 AM </span></p>
+<p class="discord_user"> <span class="name roledefault">NAME1</span> <span class="dtimestamp">Today at 7:15 AM </span></p>
 
 <p class="discordtext">However, some compromises were made. Instead of max-width being 400px, that unfortunately doesn't scale images on mobile so now max-width is given as a percentage instead. <img class="emoji" src="https://em-content.zobj.net/thumbs/160/twitter/103/pensive-face_1f614.png" /></p>
 
@@ -35,7 +35,7 @@
 
 <p class="iconbox">     <img class="icon" src="https://i.imgur.com/4TFWQVB.png" /> </p>
 
-<p class="discord_user"> <span class="name roledefault">DiscordUser</span><span class="dtimestamp">Today at 10:10 PM </span></p>
+<p class="discord_user"> <span class="name roledefault">NAME1</span><span class="dtimestamp">Today at 10:10 PM </span></p>
 
 <p class="discordtext">
         <img class="sent" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Webb%27s_First_Deep_Field.jpg/800px-Webb%27s_First_Deep_Field.jpg" />
@@ -63,7 +63,7 @@
 
 <p class="iconbox">     <img class="icon" src="https://i.imgur.com/FweLE7L.png" /> </p>
 
-<p class="discord_user"> <span class="name roledefault">CoolDude</span><span class="dtimestamp">Today at 10:12 PM</span> </p>
+<p class="discord_user"> <span class="name roledefault">NAME2</span><span class="dtimestamp">Today at 10:12 PM</span> </p>
 
 <p class="discordtext"> Real links can look exactly like fake links. Just use the standard link with class="blulink" and it should work. <a class="blulink" href="https://i.imgur.com/OOtBPQ4.gif" rel="nofollow">https://i.imgur.com/OOtBPQ4.gif</a></p>
 
@@ -71,7 +71,7 @@
 
 <p class="discordfooter"> <span class="dtextbar">
 <img class="dfooter_lbutton" src="https://i.imgur.com/CuBTomX.png" /> 
-<span>Message @CoolDude </span>
+<span>Message @NAME2 </span>
  <img class="dfooter_rbutton2" src="https://i.imgur.com/JtLaeNH.png" /></span>
   </p></div>
 </div>
