@@ -1,13 +1,16 @@
 <!-- replace "notifdark" with "notiflight" for light mode -->
 <div class="phone">
+
 <div class="notifdark">
-<p class="notif-iconbox"><img class="notificon" src="https://i.imgur.com/RNEM6SC.png" /></p>
-<p class="notiftitle"><span class="notifname">Night Owl Chest available!</span> <span class="notiftime"> 6:30am</span></p>
-<p class="notiftext">Tap to claim your reward now.</p>
+<p class="notif-iconbox"><img class="notificon" src="IMGUR LINK OF APP ICON" /></p>
+<p class="notiftitle"><span class="notifname">BIG TEXT</span> <span class="notiftime"> TIMESTAMP/1m ago</span></p>
+<p class="notiftext">SMALL TEXT</p>
 </div>
+
 <div class="notifdark">
-<p class="notif-iconbox"><img class="notificon" src="https://i.imgur.com/QkINx6U.png" /></p>
-<p class="notiftitle"><span class="notifname">DoorDash</span> <span class="notiftime"> 20m ago</span></p>
-<p class="notiftext">How was your order? Share your thoughts and get a discount code!</p>
+<p class="notif-iconbox"><img class="notificon" src="IMGUR LINK OF APP ICON" /></p>
+<p class="notiftitle"><span class="notifname">BIG TEXT</span> <span class="notiftime"> TIMESTAMP/1m ago</span></p>
+<p class="notiftext">SMALL TEXT</p>
 </div>
+
 </div>
