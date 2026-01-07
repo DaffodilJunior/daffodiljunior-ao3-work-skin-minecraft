@@ -3,13 +3,13 @@
 
 <div class="notifdark">
 <p class="notif-iconbox"><img class="notificon" src="IMGUR LINK OF PFP" /> <span class="appcircle"> <img class="img_appcircle" src="IMGUR LINK OF APP ICON" /> </span></p>
-<p class="notiftitle"><span class="notifname">USERNAME</span> <span class="notiftime"> 16:20</span></p>
+<p class="notiftitle"><span class="notifname">USERNAME</span> <span class="notiftime"> TIMESTAMP</span></p>
 <p class="notiftext">MIKU MIKU OO EE OO</p>
 </div>
 
 <div class="notifdark">
 <p class="notif-iconbox"><img class="notificon" src="IMGUR LINK OF PFP" /> <span class="appcircle"> <img class="img_appcircle" src="IMGUR LINK OF APP ICON" /> </span></p>
-<p class="notiftitle"><span class="notifname">USERNAME</span> <span class="notiftime"> 16:20</span></p>
+<p class="notiftitle"><span class="notifname">USERNAME</span> <span class="notiftime"> TIMESTAMP</span></p>
 <p class="notiftext">this is text part two</p>
 </div>
 
