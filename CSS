@@ -233,6 +233,15 @@
   margin-top: 8px;
 }
 
+#workskin .iconboxPhone {
+  border-radius: 20%;
+  margin-left: -3px;
+  float: left;
+  height: 40px;
+  width: 40px;
+  margin-top: 8px;
+}
+
 #workskin .iconbox2 {
   float: left;
   width: 40px;
@@ -650,6 +659,14 @@
   margin-bottom: 0.5em;
 }
 
+#workskin .discordtextPhone {
+  color: #B4B5B7;
+  margin-right: 60px;
+  margin-left: 41px;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+}
+
 #workskin .discordreply {
   color: #b4b5b7;
   font-size: 14px;
@@ -666,6 +683,14 @@
   color: #B4B5B7;
   margin-right: 60px;
   margin-left: 36px;
+  margin-top: 0.5em;
+  margin-bottom: 1.6em;
+}
+
+#workskin .discordtext_bot_Phone {
+  color: #B4B5B7;
+  margin-right: 60px;
+  margin-left: 41px;
   margin-top: 0.5em;
   margin-bottom: 1.6em;
 }
