@@ -17,3 +17,4 @@ insert text msg
 
 <!-- a person's last msg must be in discordtext_bot_Phone -->
 <!-- if they only send one msg, just delete the discordtext part -->
+<!-- if added <div class="dmessage_atuser">, add new </div> -->
