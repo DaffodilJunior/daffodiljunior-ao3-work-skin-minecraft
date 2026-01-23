@@ -11,7 +11,7 @@
 <p class="discord_user"> <span class="name roledefault">DiscordUser</span> 
 <span class="dtimestamp">the timestamp</span></p>
 
-<!-- remember to add _Phone if necessary -->
+<!-- remember to add Phone and _Phone if necessary -->
 
 <p class="discordtext">
 the actual reply
