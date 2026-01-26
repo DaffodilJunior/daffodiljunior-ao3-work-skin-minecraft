@@ -1,0 +1,31 @@
+/* Minecraft Book by Ultraviollett */
+/* compatible with Ultraviollett's Screen Reader */
+
+#workskin .mcbook {
+  display: block;
+  background-image: url("https://images.squidge.org/images/2023/08/22/Book_and_Quill_Writing_webp.png");
+  text-align: center;
+  background-position: center;
+  background-repeat: no-repeat;
+  margin: auto;
+  background-size: 100% 100%;
+  padding: 1em 3em 5em 3em;
+  overflow-y: auto;
+  width: 60vw;
+  height: 74vw;
+  max-width: 250px;
+  max-height: 308px;
+  color: black;
+}
+
+#workskin pre {
+  font: unset;
+  text-wrap: wrap;
+  word-break: break-all;
+  width: 100%;
+  font-weight: 200;
+}
+
+#workskin .mcbook hr {
+  display: none;
+}
