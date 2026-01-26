@@ -1,0 +1,6 @@
+#workskin .phone {
+  max-width: 370px;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  display: table;
+  margin: auto;
+}
