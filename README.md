@@ -1,7 +1,7 @@
 # README
 Ultraviollett (AO3) and TrojanTeapot (AO3) did all the work, i just copypasted it over together and did some basic tweaking.
 
-To make sure formatting shows up in your fic, create a work skin, copypaste the CSS into it, apply said skin to your fic, then coyppaste individual segments of HTML into your fic with the plain text editor option in ao3. Make sure you modify the placeholders (MIKU) with text you actually want readers to see!
+To make sure formatting shows up in your fic, create a work skin, copypaste the CSS into it, apply said skin to your fic, then coyppaste individual segments of HTML into your fic with the plain text editor option in ao3. Make sure you modify the placeholders (MIKU) with text you actually want readers to see! AO3-specific ones do not require any additional CSS.
 
 /* anything in these types of brackets are comments that won't affect any code. */
 
