@@ -1,7 +1,7 @@
 /* Discord Theme Mobile (a fork of TrojanTeapot's work) */
 /* DOES NOT SUPPORT SCREEN READERS OR TTS, SOMEONE PLEASE HELP WORK IT OUT TYSM */
 
-#workskin .discordPhone {
+#workskin .discord_Phone {
   max-width: 370px;
   font-family: "Whitney", Helvetica Neue, Helvetica, Arial, sans-serif;
   margin-top: 1em;
@@ -11,7 +11,7 @@
   background-color: #313338;
 }
 
-#workskin .iconboxPhone {
+#workskin .iconbox_Phone {
   border-radius: 10%;
   margin-left: 1px;
   float: left;
@@ -20,7 +20,7 @@
   margin-top: 3px;
 }
 
-#workskin .dtextbarPhone {
+#workskin .dtextbar_Phone {
   background-color: #383a40;
   color: #6b6d76;
   font-weight: 300;
@@ -43,7 +43,7 @@
   white-space: nowrap;
 }
 
-#workskin .discordtextPhone {
+#workskin .discordtext_Phone {
   color: #B4B5B7;
   margin-right: 20px;
   margin-left: 51px;
