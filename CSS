@@ -211,19 +211,6 @@
   background-color: #313338;
 }
 
-/* i modified it slightly to add "discordPhone" so mobile text headers look better slightly i think */
-/* hopefullly this works */
-
-#workskin .discordPhone {
-  max-width: 395px;
-  font-family: "Whitney", Helvetica Neue, Helvetica, Arial, sans-serif;
-  margin-top: 1em;
-  margin-bottom: 1em;
-  margin-left: auto;
-  margin-right: auto;
-  background-color: #313338;
-}
-
 #workskin .iconbox {
   border-radius: 50%;
   margin-left: -14px;
@@ -231,15 +218,6 @@
   height: 40px;
   width: 40px;
   margin-top: 8px;
-}
-
-#workskin .iconboxPhone {
-  border-radius: 20%;
-  margin-left: -3px;
-  float: left;
-  height: 40px;
-  width: 40px;
-  margin-top: 6px;
 }
 
 #workskin .iconbox2 {
@@ -659,14 +637,6 @@
   margin-bottom: 0.5em;
 }
 
-#workskin .discordtextPhone {
-  color: #B4B5B7;
-  margin-right: 60px;
-  margin-left: 46px;
-  margin-top: 0.5em;
-  margin-bottom: 0.5em;
-}
-
 #workskin .discordreply {
   color: #b4b5b7;
   font-size: 14px;
@@ -683,14 +653,6 @@
   color: #B4B5B7;
   margin-right: 60px;
   margin-left: 36px;
-  margin-top: 0.5em;
-  margin-bottom: 1.6em;
-}
-
-#workskin .discordtext_bot_Phone {
-  color: #B4B5B7;
-  margin-right: 60px;
-  margin-left: 46px;
   margin-top: 0.5em;
   margin-bottom: 1.6em;
 }
@@ -777,7 +739,7 @@
 }
 
 #workskin .phone {
-  max-width: 395px;
+  max-width: 370px;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   display: table;
   margin: auto;
