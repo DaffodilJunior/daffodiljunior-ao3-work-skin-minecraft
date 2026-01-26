@@ -20,4 +20,4 @@ https://archiveofourown.org/works/65285251 (Google Search Bar)
 ### "2023 Discord Theme Workskin" 
 https://archiveofourown.org/works/46815217 (Discord Chats)
 
-The mobile versions are a fork by yours truly. If you want to modify individual role colors, just copypaste sections of the CSS regarding that and change the individual hex codes since idk what color you want lmao
+The mobile versions are a fork by yours truly. If you want to modify individual role colors for any of these, just copypaste sections of the CSS regarding that and change the individual hex codes since idk what color you want lmao
