@@ -20,6 +20,6 @@ https://archiveofourown.org/works/65285251 (Google Search Bar)
 
 ## TrojanTeapot (AO3):
 ### "2023 Discord Theme Workskin" 
-https://archiveofourown.org/works/46815217 (Discord Chats)
+https://archiveofourown.org/works/46815217 (Discord Chats & Phone Notifications)
 
 The mobile versions are a fork by yours truly. If you want to modify individual role colors for any of these, just copypaste sections of the CSS regarding that and change the individual hex codes since idk what color you want lmao
