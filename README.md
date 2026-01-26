@@ -3,9 +3,9 @@ Ultraviollett (AO3) and TrojanTeapot (AO3) did all the work, i just copypasted i
 
 To make sure formatting shows up in your fic, create a work skin, copypaste the CSS into it, apply said skin to your fic, then coyppaste individual segments of HTML into your fic with the plain text editor option in ao3. Make sure you modify the placeholders (MIKU) with text you actually want readers to see! AO3-specific ones do not require any additional CSS.
 
-/* anything in these types of brackets are comments that won't affect any code. */
+/* anything in these types of brackets are CSS comments that won't affect any code (unless you pasted it as html, maybe). */
 
-\<!-- anything in these types of brackets are comments that won't affect any code. -->
+\<!-- anything in these types of brackets are html comments that won't affect any code (unless you pasted it as CSS, maybe). -->
 
 The Minecraft sections and Google Search Bars are screen reader compatible. Unfortunately, i have no idea how to make the Discord skins work without Show Creator's Style, or function as intended with a screen reader; i mean i guess it works if you ignore the random giant images?????????? At the moment i'm just plannig to post future Discord segments of my fics separately like a traditional chatfic so simple text to speech can function at least. If you do know CSS, please help.
 
