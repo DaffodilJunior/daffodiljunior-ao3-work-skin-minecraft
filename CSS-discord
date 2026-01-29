@@ -99,12 +99,13 @@
 #workskin .replybox {
   border-radius: 6px 0 0 0;
   margin-left: 19.5px;
+  margin-right: 3px;
   float: left;
   border-left: 2px solid #4e5058;
   border-top: 2px solid #4e5058;
-  min-height: 1.5em;
-  width: 27px;
-  margin-top: 10px;
+  min-height: 0.5em;
+  width: 24px;
+  margin-top: 12px;
   margin-bottom: -2em;
 }
 
@@ -511,9 +512,9 @@
   line-height: 1.5em;
   margin-right: 60px;
   margin-left: 36px;
-  margin-top: .5em;
-  margin-bottom: -0.4em;
-  max-height: 1.5em;
+  margin-top: 1.5em;
+  margin-bottom: -0.5em;
+  max-height: 1.7em;
   overflow: hidden;
 }
 
