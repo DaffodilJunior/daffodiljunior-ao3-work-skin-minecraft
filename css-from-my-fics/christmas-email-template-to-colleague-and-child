@@ -127,10 +127,10 @@
   color: #b4b5b7;
   font-size: 14px;
   line-height: 1.5em;
-  margin-right: 50px;
   margin-left: 36px;
+  margin-right: 50px;
   margin-top: 1.5em;
-  margin-bottom: -1em;
+  margin-bottom: -0.5em;
   max-height: 1.7em;
   overflow: hidden;
 }
@@ -511,8 +511,8 @@
   font-size: 15px;
   margin-top: 1px;
   margin-bottom: -1px;
-  margin-right: 10px;
-  padding-left: 10px;
+  margin-left: 10px;
+  margin-right: 9px;
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
