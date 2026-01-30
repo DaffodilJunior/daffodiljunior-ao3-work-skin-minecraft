@@ -1,0 +1,19 @@
+<p class="replybox"> </p>
+<!-- can add <div class="dmessage_atuser"> to make background yellow -->
+
+<p class="discordreply"> <img class="replyicon" src="PFP OF PERSON YOURE REPLYING TO" /> 
+<span class="replyname roledefault">@NAME</span> message that is being replied to</p>
+
+<p class="iconbox">
+    <img class="icon" src="PFP" />
+  </p>
+
+<p class="discord_user"> <span class="name roledefault">DiscordUser</span> 
+<span class="dtimestamp">the timestamp</span></p>
+
+<p class="discordtext">
+<!-- it can also be discordtext_bot -->
+the actual reply
+</p>
+  
+<!-- if added <div class="dmessage_atuser">, add new </div> -->
