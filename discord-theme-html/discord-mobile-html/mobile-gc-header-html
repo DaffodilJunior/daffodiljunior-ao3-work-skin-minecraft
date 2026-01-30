@@ -1,19 +1,42 @@
-<div class="discordPhone">
-  <div class="discordbody">
+<div class="discord_Phone"><div class="discordbody">
 
-<p class="discordheader"><img class="channeltype" src="https://i.imgur.com/JVftVDr.png" />
-<!-- REPLACE THE URL WITH GC ICON IF THERE IS ONE -->
-<span class="channelname">GC NAME</span>
-<img class="dheader_button2" src="https://i.imgur.com/ntQUw2u.png" /> 
-<img class="dheader_button" src="https://i.imgur.com/1XfybuD.png" />  
-<img class="dheader_button" src="https://imgur.com/EXGb91D.png" />
+<p class="discordheader">
+
+   <img class="channeltype" src="https://i.imgur.com/JVftVDr.png" />
+   <!-- REPLACE THE URL WITH GC ICON IF THERE IS ONE -->
+
+   <span class="channelname">
+   GC NAME
+   </span>
+
+   <span class="status">
+   <!-- STATUS: ONLINE = don't type anything here lmfao -->
+   <!-- DO NOT DISTURB = add <img class="img_status" src="https://i.imgur.com/lCjduaM.png" /> -->
+   <!-- IDLE = <img class="img_status" src="https://i.imgur.com/BTiyuxE.png" /> -->
+   <!-- OFFLINE/INVIS = <img class="img_status" src="https://i.imgur.com/c2dDCpD.png" /> -->
+   </span>
+
+   <img class="dheader_button" src="https://i.imgur.com/ntQUw2u.png" />
+
+   <img class="dheader_button" src="https://i.imgur.com/1XfybuD.png" />
+
+   <img class="dheader_button2" src="https://imgur.com/EXGb91D.png" />
+
 </p>
 
 <!-- start pasting stuff here: pfp, username, text -->
 
-<p class="discordfooter"> <span class="dtextbar">
-<img class="dfooter_lbutton" src="https://i.imgur.com/CuBTomX.png" />
-<span>Message GC NAME </span>
-<img class="dfooter_rbutton2" src="https://i.imgur.com/JtLaeNH.png" /></span>
-  </p></div>
-</div>
+<p class="discordfooter">
+
+   <span class="dtextbar_Phone">
+
+      <img class="dfooter_lbutton" src="https://i.imgur.com/CuBTomX.png" /> 
+      <span>
+      Message @NAME
+      </span>
+
+   <img class="dfooter_rbutton2" src="https://i.imgur.com/JtLaeNH.png" />
+
+   </span>
+
+</p></div></div>
